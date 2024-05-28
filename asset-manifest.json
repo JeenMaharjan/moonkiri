@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.eb8895ac.css",
-    "main.js": "/static/js/main.98b1e263.js",
+    "main.css": "/static/css/main.f2f8b77b.css",
+    "main.js": "/static/js/main.e5872ce9.js",
     "static/media/FINAL1.jpg": "/static/media/FINAL1.e2b544253dccbd70bea2.jpg",
     "static/media/8.png": "/static/media/8.ec5119e4a3d176bc9761.png",
     "static/media/2.png": "/static/media/2.9ae95b73751eb996c259.png",
@@ -26,15 +26,12 @@
     "static/media/9.jpg": "/static/media/9.45f5c8d348b659e0882c.jpg",
     "static/media/13.jpg": "/static/media/13.d078988e775ec67f079c.jpg",
     "static/media/2.jpeg": "/static/media/2.d2eaf1f7707b47c8bf6a.jpeg",
-    "static/media/pre-design.jpeg": "/static/media/pre-design.754ae779cc6751175362.jpeg",
     "static/media/Montserrat-Black.ttf": "/static/media/Montserrat-Black.6a96fc179442d5918664.ttf",
-    "static/media/design.jpeg": "/static/media/design.46f3c4830c9f866f77e7.jpeg",
     "static/media/Montserrat-ExtraBold.ttf": "/static/media/Montserrat-ExtraBold.3a9432ab3b6d841e66f8.ttf",
     "static/media/Montserrat-SemiBold.ttf": "/static/media/Montserrat-SemiBold.164d6389cece787a15b8.ttf",
     "static/media/F.jpg": "/static/media/F.e72917f3b910c1e22039.jpg",
     "static/media/1.webp": "/static/media/1.a5ef148551e79f8b90b8.webp",
     "static/media/home3.jpg": "/static/media/home3.f5edd0163a4f0ad41167.jpg",
-    "static/media/construction.jpeg": "/static/media/construction.e8735b87f1ca31ed4dd6.jpeg",
     "static/media/E.jpg": "/static/media/E.c92140470aa21e55ebb2.jpg",
     "static/media/Stefanski+Computer+Desk (3).jpg": "/static/media/Stefanski+Computer+Desk (3).4278471ca83641afebc7.jpg",
     "static/media/Stefanski+Computer+Desk (2).jpg": "/static/media/Stefanski+Computer+Desk (2).10910b318737b29ca4c6.jpg",
@@ -74,11 +71,11 @@
     "static/media/daraz.svg": "/static/media/daraz.9ad3270a9edd45bdf1c45538122a4634.svg",
     "static/media/Urban.svg": "/static/media/Urban.5bd4c554fd7644c347003c0aeb818b13.svg",
     "index.html": "/index.html",
-    "main.eb8895ac.css.map": "/static/css/main.eb8895ac.css.map",
-    "main.98b1e263.js.map": "/static/js/main.98b1e263.js.map"
+    "main.f2f8b77b.css.map": "/static/css/main.f2f8b77b.css.map",
+    "main.e5872ce9.js.map": "/static/js/main.e5872ce9.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb8895ac.css",
-    "static/js/main.98b1e263.js"
+    "static/css/main.f2f8b77b.css",
+    "static/js/main.e5872ce9.js"
   ]
 }
